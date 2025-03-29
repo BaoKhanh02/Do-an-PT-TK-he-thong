@@ -7,6 +7,8 @@
 ### 1. Phạm vi
 
   Sổ liên lạc điện tử có thể được sử dụng ở cả trường THCS và THPT. Nó được tạo ra để tạo mối quan hệ chặt chẽ giữa nhà trường và gia đình, giúp nhà trường quản lí được học sinh và thông báo đến gia đình sớm nhất có thể.
+  
+![Ảnh](https://github.com/user-attachments/assets/685fba25-1238-4db1-b702-c0630bc19217)
 
 ### 2. Đối tượng
 
